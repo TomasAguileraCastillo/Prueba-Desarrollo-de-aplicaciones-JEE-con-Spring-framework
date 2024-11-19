@@ -1,3 +1,3 @@
-Prueba - Desarrollo de aplicaciones JEE con
+Prueba - Desarrollo de aplicaciones JEE con 
 Spring framework
 
